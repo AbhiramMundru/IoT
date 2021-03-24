@@ -1,3 +1,2 @@
 # hello-world
-Learning
-just
+My IoT project codes will be uploaded here.
