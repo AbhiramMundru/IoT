@@ -12,9 +12,6 @@ Please refer the given pin diagram if you'd like to use any other board.<br />
 Follow the given commands before uploading code to avoid cannot open port error.
 
 ```
-  sudo su
-  //type your password
-  cd /dev
-  chown username ttyUSB0
-  ```
+sudo chown <username> /dev/ttyUSB0  
+```
 </p>
